@@ -26,7 +26,7 @@
     <a href = "https://www.instagram.com/nicolas_dos_santos_7/">
       <img width="26" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
     </a>
-    <a href = "https://www.linkedin.com/in/alexandre-milim-1ba537269/">
+    <a href = "https://www.linkedin.com/in/nicolas-pichiteli-1ba537269/">
     <img width="26" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
 </div>
