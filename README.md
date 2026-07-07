@@ -12,7 +12,7 @@
 
 🚀 Sempre aprendendo novas tecnologias para criar aplicações modernas.
 
-📍 Araçatuba - SP | Brasil 🇧🇷
+📍 Birigui - SP | Brasil 🇧🇷
 
 </div>
 
@@ -20,11 +20,11 @@
 
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/🌐%20Portfólio-204BCA?style=for-the-badge)](https://SEU-SITE.vercel.app)
+[![Portfólio](https://img.shields.io/badge/🌐%20Portfólio-204BCA?style=for-the-badge)](https://portifoliodev125.vercel.app)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-204BCA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
-[![Email](https://img.shields.io/badge/Email-204BCA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-204BCA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolaspichiteli245@gmail.com)
 
 </div>
 
