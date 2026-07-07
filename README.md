@@ -1,16 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080A13,50:204BCA,100:4F8CFF&height=220&section=header&text=Nicolas%20Pichiteli&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React%20•%20Laravel%20•%20Python%20•%20AI&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080A13,50:204BCA,100:4F8CFF&height=220&section=header&text=Nicolas%20Pichiteli%20dos%20Santos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20|%20React%20•%20Laravel%20•%20Python&descAlignY=60"/>
 
 <div align="center">
 
-# 👋 Hello, I'm Nicolas Pichiteli
+# 👋 Olá, eu sou o Nicolas!
 
-### Full Stack Developer • Software Engineering Student
+### Desenvolvedor Full Stack em formação
 
-🚀 Passionate about creating modern web applications, automation and Artificial Intelligence.
+🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **UniSalesiano**
 
-🎓 Systems Analysis and Development — Unisalesiano
+💻 Apaixonado por desenvolvimento web, automações e Inteligência Artificial.
 
-🇧🇷 Brazil
+🚀 Sempre aprendendo novas tecnologias para criar aplicações modernas.
+
+📍 Araçatuba - SP | Brasil 🇧🇷
 
 </div>
 
@@ -18,16 +20,17 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-204BCA?style=for-the-badge&logo=vercel&logoColor=white)](https://SEUSITE.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-204BCA?style=for-the-badge&logo=linkedin&logoColor=white)](SEULINK)
-[![Gmail](https://img.shields.io/badge/Email-204BCA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
-[![Instagram](https://img.shields.io/badge/Instagram-204BCA?style=for-the-badge&logo=instagram&logoColor=white)](SEUINSTAGRAM)
+[![Portfólio](https://img.shields.io/badge/🌐%20Portfólio-204BCA?style=for-the-badge)](https://SEU-SITE.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-204BCA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+[![Email](https://img.shields.io/badge/Email-204BCA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@gmail.com)
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Estatísticas
 
 <div align="center">
 
@@ -39,43 +42,43 @@
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,php,laravel,nodejs,java,cpp,mysql,postgres,supabase,firebase,git,github,docker,figma,vscode,npm&perline=10"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,php,laravel,nodejs,java,cpp,mysql,postgres,git,github,docker,figma,vscode,linux&perline=10"/>
 
 </div>
 
 ---
 
-# 🚀 Currently Learning
+# 📚 Estudando atualmente
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,typescript,laravel,docker,python,ai"/>
+<img src="https://skillicons.dev/icons?i=react,ts,laravel,docker,python"/>
 
 </div>
 
 ---
 
-# 📌 Featured Projects
+# 💼 Projetos em Destaque
 
-⭐ Portfolio Website
+✨ Portfólio Profissional
 
-⭐ Gallery with Supabase
+✨ Pokédex React
 
-⭐ Pokédex React
+✨ Galeria de Fotos com Supabase
 
-⭐ AI Recruitment Agent
+✨ Sistema CRUD Laravel
 
-⭐ n8n Automations
+✨ Agente de Recrutamento com IA
 
-⭐ Full Stack CRUD Laravel
+✨ Automações utilizando n8n
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribuições
 
 <div align="center">
 
@@ -85,11 +88,11 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Conquistas
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nicolas-Santos&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nicolas-Santos&theme=algolia&no-frame=true&margin-w=10"/>
 
 </div>
 
