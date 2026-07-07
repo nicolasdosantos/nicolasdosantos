@@ -1,52 +1,104 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header&text=Nicolas Pichiteli dos Santos&fontSize=30&fontColor=ffff&animation=twinkling&fontAlignY=35"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nicolas+Pichiteli+dos+Santos;I'm+19+years+old;I+from+Brazil,+SP;I+study+systems+analysis+and+development+development+in+Unisalesiano;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-  
- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Santos&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Nicolas Pichiteli dos Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Santos&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Estudando: </h1>
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-   </div> 
- 
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "https://mail.google.com/mail/u/0/#search/nicolaspichiteli245@gmail.com?compose=new">
-      <img width="30" src="https://github.com/LuigiGf/LuigiGf/raw/main/gmail.svg">
-    </a>
-    <a href = "https://www.instagram.com/nicolas_dos_santos_7/">
-      <img width="26" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
-    </a>
-    <a href = "https://www.linkedin.com/in/nicolas-pichiteli-942a0b269/">
-    <img width="26" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
-    </a>
-</div>
-
-
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080A13,50:204BCA,100:4F8CFF&height=220&section=header&text=Nicolas%20Pichiteli&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React%20•%20Laravel%20•%20Python%20•%20AI&descAlignY=60"/>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Nicolas-Santos}/count.svg" /></p> 
-<br></div>
+
+# 👋 Hello, I'm Nicolas Pichiteli
+
+### Full Stack Developer • Software Engineering Student
+
+🚀 Passionate about creating modern web applications, automation and Artificial Intelligence.
+
+🎓 Systems Analysis and Development — Unisalesiano
+
+🇧🇷 Brazil
+
+</div>
+
+---
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-204BCA?style=for-the-badge&logo=vercel&logoColor=white)](https://SEUSITE.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-204BCA?style=for-the-badge&logo=linkedin&logoColor=white)](SEULINK)
+[![Gmail](https://img.shields.io/badge/Email-204BCA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
+[![Instagram](https://img.shields.io/badge/Instagram-204BCA?style=for-the-badge&logo=instagram&logoColor=white)](SEUINSTAGRAM)
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Santos&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Santos&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,php,laravel,nodejs,java,cpp,mysql,postgres,supabase,firebase,git,github,docker,figma,vscode,npm&perline=10"/>
+
+</div>
+
+---
+
+# 🚀 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,laravel,docker,python,ai"/>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+⭐ Portfolio Website
+
+⭐ Gallery with Supabase
+
+⭐ Pokédex React
+
+⭐ AI Recruitment Agent
+
+⭐ n8n Automations
+
+⭐ Full Stack CRUD Laravel
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas-Santos&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nicolas-Santos&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Nicolas-Santos&color=204bca&style=for-the-badge)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080A13,50:204BCA,100:4F8CFF&height=120&section=footer"/>
