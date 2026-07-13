@@ -111,8 +111,8 @@ API REST em Flask com CRUD completo, integrada a MySQL, com interface React para
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nicolasdosantos&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=A78BFA&icon_color=C4B5FD&text_color=E5E5E5&hide_rank=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdosantos&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=A78BFA&text_color=E5E5E5&langs_count=7" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=nicolasdosantos&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=A78BFA&icon_color=C4B5FD&text_color=E5E5E5&hide_rank=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nicolasdosantos&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=A78BFA&text_color=E5E5E5&langs_count=7" />
 
 <br/>
 
