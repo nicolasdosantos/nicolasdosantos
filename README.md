@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=React+%2B+TypeScript+%2B+Tailwind;PHP+%2B+Laravel+%2B+Python;Construindo+interfaces+de+alta+performance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=React+%2B+TypeScript+%2B+Tailwind;PHP+%2B+Laravel+%2B+Python+%2B+Java;Construindo+interfaces+de+alta+performance)](https://git.io/typing-svg)
 
 <p>
   <a href="https://linkedin.com/in/nicolas-pichiteli-dos-santos"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=0A0A0F" /></a>
@@ -18,7 +18,7 @@
 
 ## 🟣 Sobre mim
 
-Desenvolvedor Full Stack em Birigui – SP, atualmente estagiário na **Agência VoêFly**, onde desenvolvo interfaces de alta performance para clientes de e-commerce e fintech. Tenho base sólida em **React**, **TypeScript**, **PHP/Laravel** e **Python**, com foco em código limpo, usabilidade e produtos que resolvem problemas reais.
+Desenvolvedor Full Stack em Birigui – SP, atualmente estagiário na **Agência VoêFly**, onde desenvolvo interfaces de alta performance para clientes de e-commerce e fintech. Tenho base sólida em **React**, **TypeScript**, **PHP/Laravel**, **Java** e **Python**, com foco em código limpo, usabilidade e produtos que resolvem problemas reais.
 
 Comecei minha trajetória técnica como Jovem Aprendiz no SENAI, atuando como líder de grupo em projetos de aprendizado — experiência que moldou minha forma de organizar tarefas e colaborar em equipe.
 
