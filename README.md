@@ -1,5 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080A13,50:204BCA,100:4F8CFF&height=220&section=header&text=Nicolas%20Pichiteli%20dos%20Santos&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20•%20React%20•%20Laravel%20•%20Python&descAlignY=58&descSize=18"/>
-
+<img
+  width="100%"
+  alt="Nicolas Pichiteli dos Santos — Desenvolvedor Full Stack"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D0D12,50:1A1030,100:7C3AED&amp;height=220&amp;section=header&amp;text=Nicolas%20Pichiteli%20dos%20Santos&amp;fontSize=38&amp;fontColor=F5F3FF&amp;fontAlignY=38&amp;desc=Desenvolvedor%20Full%20Stack%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&amp;descAlignY=58&amp;descSize=18&amp;descColor=C4B5FD"
+/>
 <div align="center">
 
 # Olá, eu sou o Nicolas 👋
