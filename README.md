@@ -5,11 +5,7 @@
 />
 <div align="center">
 
-# Olá, eu sou o Nicolas 👋
-
-### Desenvolvedor Full Stack · React · TypeScript · Node.js
-
-Estudante de Análise e Desenvolvimento de Sistemas em Birigui, SP
+# Estudante de Análise e Desenvolvimento de Sistemas em Birigui, SP
 
 <br>
 
