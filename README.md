@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080A13,50:204BCA,100:4F8CFF&height=220&section=header&text=Nicolas%20Pichiteli%20dos%20Santos&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20•%20React%20•%20Laravel%20•%20Python&descAlignY=58&descSize=18"/>
+
 <div align="center">
 
 # Olá, eu sou o Nicolas 👋
