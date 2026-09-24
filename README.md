@@ -1,139 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0D12,50:1A1030,100:0D0D12&text=Nicolas%20Pichiteli%20dos%20Santos&fontColor=C4B5FD&fontSize=36&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# Nicolas Pichiteli dos Santos
 
-<br/>
+**Desenvolvedor Full Stack · React, TypeScript e Node.js**  
+Estudante de Análise e Desenvolvimento de Sistemas · Birigui, SP
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=React+%2B+TypeScript+%2B+Tailwind;PHP+%2B+Laravel+%2B+Python+%2B+Java;Construindo+interfaces+de+alta+performance)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://linkedin.com/in/nicolas-pichiteli-dos-santos"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=0A0A0F" /></a>
-  <a href="mailto:nicolaspichiteli245@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0A0A0F" /></a>
-  <a href="https://wa.me/5518996148839"><img src="https://img.shields.io/badge/WhatsApp-0A0A0F?style=for-the-badge&logo=whatsapp&logoColor=A78BFA&labelColor=0A0A0F" /></a>
-</p>
+[![Portfólio](https://img.shields.io/badge/Portfólio-0A0A0F?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://portifoliodev125.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/nicolas-pichiteli-dos-santos-942a0b269/)
+[![Email](https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:nicolaspichiteli245@gmail.com)
 
 </div>
 
-<br/>
+## Sobre mim
 
-## 🟣 Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como estagiário de desenvolvimento no Grupo Fly. Trabalho na evolução de aplicações web, criando funcionalidades, ajustando interfaces e investigando falhas até validar a correção.
 
-Desenvolvedor Full Stack em Birigui – SP, atualmente estagiário na **Agência VoêFly**, onde desenvolvo interfaces de alta performance para clientes de e-commerce e fintech. Tenho base sólida em **React**, **TypeScript**, **PHP/Laravel**, **Java** e **Python**, com foco em código limpo, usabilidade e produtos que resolvem problemas reais.
+Também fundei a Base4 Systems, onde desenvolvo um produto de gestão financeira com React, TypeScript, Node.js, Express e MySQL. O código desse produto é privado por se tratar de uma solução comercial. Aqui no GitHub, compartilho projetos que posso mostrar integralmente, além da evolução dos meus estudos.
 
-Comecei minha trajetória técnica como Jovem Aprendiz no SENAI, atuando como líder de grupo em projetos de aprendizado — experiência que moldou minha forma de organizar tarefas e colaborar em equipe.
+Antes do estágio, participei de um projeto de desenvolvimento de sistemas no SENAI Avak Bedouian, liderando um grupo de cinco pessoas e trabalhando no backend em Python.
 
-- 🔭 Atualmente construindo interfaces e produtos web com **React 19**, **TanStack Start** e **Tailwind CSS v4**
-- 🌱 Aprofundando conhecimento em **Laravel**, **Supabase** e arquitetura full stack
-- 🤝 Aberto a oportunidades como Desenvolvedor Front-end / Full Stack
-- ⚡ Uso IA (Claude, ChatGPT) como parte do meu fluxo de desenvolvimento
+**Meu foco hoje:** desenvolvimento web full stack, APIs, bancos de dados relacionais e melhoria contínua do código. Utilizo ferramentas de IA como apoio, revisando e testando o que incorporo aos projetos.
 
-<br/>
+## Tecnologias
 
-## 🟣 Tecnologias
+| Área | Tecnologias com prática em projetos |
+| --- | --- |
+| Frontend | React, TypeScript, JavaScript, Tailwind CSS |
+| Backend | Node.js, Express, PHP, Laravel, Python, Flask |
+| Dados | MySQL, PostgreSQL via Supabase, SQL |
+| Ferramentas | Git, GitHub, Vercel, Linux |
 
-<table>
-<tr>
-<td valign="top" width="50%">
+## Projetos em destaque
 
-**Frontend**
+| Projeto | O que desenvolvi | Tecnologias |
+| --- | --- | --- |
+| [Nexo — controle financeiro](https://github.com/nicolasdosantos/Software-Financeiro) | Aplicação para acompanhar transações, metas, orçamentos e investimentos, com autenticação, políticas de acesso por usuário e testes de regras financeiras. [Abrir demo](https://software-financeiro.vercel.app/) | React, TypeScript, Supabase, Vitest |
+| [Pokédex Full Stack](https://github.com/nicolasdosantos/PokeIntegrado) | Projeto acadêmico desenvolvido com outro integrante: interface em React, API própria em PHP e favoritos persistidos em MySQL. | React, PHP, MySQL |
+| [Obsidian](https://github.com/nicolasdosantos/Obsidian) | Site institucional de estética automotiva com atenção à responsividade, acessibilidade e animações de navegação. [Abrir demo](https://obsidian-eta-self.vercel.app/) | React, TypeScript, TanStack Start, Tailwind CSS |
+| [Estudo Java](https://github.com/nicolasdosantos/EstudoJava) | Registro da minha evolução na linguagem, organizado por aulas e exercícios de orientação a objetos. | Java |
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind&theme=dark" />
+## Como trabalho
 
-**Backend**
+- Procuro reproduzir um problema e entender sua causa antes de alterar o código.
+- Organizo mudanças com Git e valido o fluxo afetado depois de cada correção.
+- Documentação e testes fazem parte do trabalho sempre que ajudam outra pessoa a entender ou manter o projeto.
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,flask,java&theme=dark" />
+## Contato
 
-</td>
-<td valign="top" width="50%">
-
-**Banco de Dados**
-
-<img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" />
-
-**Ferramentas & Cloud**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,docker,linux&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🟣 Projetos em destaque
-
-<table>
-<tr>
-<td width="50%">
-
-### [🔮 Obsidian](https://github.com/nicolasdosantos/Obsidian)
-Landing page premium para estética automotiva de alta performance, construída com React 19, TanStack Start e Tailwind CSS v4.
-
-`React 19` `TypeScript` `TanStack Start` `Tailwind v4`
-
-[Ver demo →](https://obsidian-eta-self.vercel.app)
-
-</td>
-<td width="50%">
-
-### [💰 Nexo — Controle Financeiro](https://github.com/nicolasdosantos/Software-Financeiro)
-Plataforma de controle de receitas e despesas com dashboards e gráficos interativos, usando React e Supabase.
-
-`React` `TypeScript` `Supabase` `Vercel`
-
-[Ver demo →](https://software-financeiro.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [📱 Pokedex Full Stack](https://github.com/nicolasdosantos/PokeIntegrado)
-Sistema full stack integrado à PokéAPI, com React, PHP e MySQL para consulta e gerenciamento de dados.
-
-`React` `PHP` `MySQL`
-
-</td>
-<td width="50%">
-
-### [📚 Biblioteca Web + API](https://github.com/nicolasdosantos/Biblioteca-web)
-API REST em Flask com CRUD completo, integrada a MySQL, com interface React para gestão de acervo.
-
-`React` `Python` `Flask` `MySQL`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🟣 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=nicolasdosantos&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=A78BFA&icon_color=C4B5FD&text_color=E5E5E5&hide_rank=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nicolasdosantos&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=A78BFA&text_color=E5E5E5&langs_count=7" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasdosantos&hide_border=true&background=0A0A0F&stroke=1A1030&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA" />
-
-</div>
-
-<br/>
-
-## 🟣 Contato
-
-<div align="center">
-
-<a href="https://linkedin.com/in/nicolas-pichiteli-dos-santos"><img src="https://img.shields.io/badge/LinkedIn-nicolas--pichiteli--dos--santos-0A0A0F?style=flat-square&logo=linkedin&logoColor=A78BFA&labelColor=0A0A0F"/></a>
-<a href="mailto:nicolaspichiteli245@gmail.com"><img src="https://img.shields.io/badge/Email-nicolaspichiteli245%40gmail.com-0A0A0F?style=flat-square&logo=gmail&logoColor=A78BFA&labelColor=0A0A0F"/></a>
-<a href="https://wa.me/5518996148839"><img src="https://img.shields.io/badge/WhatsApp-%2B55%20(18)%2099614--8839-0A0A0F?style=flat-square&logo=whatsapp&logoColor=A78BFA&labelColor=0A0A0F"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>Birigui, SP — Brasil</sub>
-</div>
+[Portfólio](https://portifoliodev125.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/nicolas-pichiteli-dos-santos-942a0b269/) · [Email](mailto:nicolaspichiteli245@gmail.com)
