@@ -1,7 +1,7 @@
 <img
   width="100%"
   alt="Nicolas Pichiteli dos Santos — Desenvolvedor Full Stack"
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D0D12,50:1A1030,100:7C3AED&amp;height=220&amp;section=header&amp;text=Nicolas%20Pichiteli%20dos%20Santos&amp;fontSize=38&amp;fontColor=F5F3FF&amp;fontAlignY=38&amp;desc=Desenvolvedor%20Full%20Stack%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&amp;descAlignY=58&amp;descSize=18&amp;descColor=C4B5FD"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D0D12,50:1A1030,100:7C3AED&amp;height=220&amp;section=header&amp;text=Nicolas%20Pichiteli%20dos%20Santos&amp;fontSize=38&amp;fontColor=F5F3FF&amp;fontAlignY=38&amp;desc=Desenvolvedor%20Full%20Stack%20%E2%80%A2%20PHP%20%E2%80%A2%20Laravel%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript&amp;descAlignY=58&amp;descSize=18&amp;descColor=C4B5FD"
 />
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&width=650&lines=Desenvolvendo+aplica%C3%A7%C3%B5es+web+e+APIs;Transformando+problemas+em+solu%C3%A7%C3%B5es;Aprendendo+e+evoluindo+a+cada+projeto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&width=650&lines=PHP+e+Laravel+no+est%C3%A1gio;React+e+TypeScript+nos+projetos;Python+para+automatizar+processos)](https://git.io/typing-svg)
 
 <br>
 
@@ -23,15 +23,17 @@
 
 ## 🟣 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como **estagiário de desenvolvimento no Grupo Fly**. Trabalho na evolução de aplicações web, implementando funcionalidades, ajustando interfaces e investigando falhas até validar as correções.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e, desde abril de 2026, **estagiário de desenvolvimento na Agência VoêFly**. Lá trabalho com **PHP, Laravel e MariaDB**, com Tailwind e DaisyUI nas telas, implementando funcionalidades, ajustando interfaces e investigando falhas até validar as correções. Também uso **Python** para automatizar processos que a equipe fazia à mão.
 
 Também fundei a **Base4 Systems**, onde desenvolvo um produto de gestão financeira com **React, TypeScript, Node.js, Express e MySQL**. Por ser um produto comercial, seu código permanece privado. Neste perfil compartilho projetos que posso apresentar integralmente e meus estudos em desenvolvimento de software.
 
 Antes disso, participei de um projeto no **SENAI Avak Bedouian**, liderando um grupo de cinco pessoas e desenvolvendo o backend em Python.
 
 - 💻 **Foco atual:** aplicações web, APIs REST e bancos de dados relacionais
-- 🛠️ **No dia a dia:** React, TypeScript, Node.js, Express e MySQL
-- 📚 **Em evolução:** arquitetura de aplicações, testes e qualidade de código
+- 🛠️ **No estágio:** PHP, Laravel, MariaDB e Tailwind CSS
+- 🧩 **Nos projetos:** React, TypeScript, Node.js, Supabase e MySQL
+- ⚙️ **Automação:** Python
+- 📚 **Estudando:** Java (orientação a objetos), arquitetura de aplicações e testes
 - 🤝 **Aberto a oportunidades:** desenvolvimento Frontend, Backend e Full Stack
 
 <br>
@@ -47,7 +49,7 @@ Antes disso, participei de um projeto no **SENAI Avak Bedouian**, liderando um g
       <br><br>
       <strong>Backend</strong>
       <br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python&theme=dark" alt="Node.js, Express, PHP, Laravel e Python">
+      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python&theme=dark" alt="PHP, Laravel, Node.js, Express e Python">
     </td>
     <td valign="top" width="50%">
       <strong>Bancos de dados</strong>
@@ -82,7 +84,7 @@ Aplicação para acompanhar **transações, metas, orçamentos e investimentos**
 
 ### [🔮 Obsidian](https://github.com/nicolasdosantos/Obsidian)
 
-Site institucional para estética automotiva, desenvolvido com atenção à **responsividade, acessibilidade e animações** durante a navegação.
+Projeto de estudo: landing page de uma marca fictícia de estética automotiva, feita para praticar **React 19, TanStack Start e animações**, com atenção à responsividade e à acessibilidade.
 
 `React 19` `TypeScript` `TanStack Start` `Tailwind CSS`
 
